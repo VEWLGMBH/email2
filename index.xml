@@ -18,7 +18,7 @@
 
           <!-- HEADER -->
           <tr>
-            <td align="center" style="padding:16px;background-color:#a9d1be;">
+            <td align="center" style="padding:8px;background-color:#a9d1be;">
               <a href="https://www.v-e-gmbh.de/" target="_blank">
                 <img src="https://ejzkepf.stripocdn.email/content/guids/CABINET_7fd94653830e80b0e60fc4cb1431872fa2b8115f0f3b7b9f53dd6a446bdc94bb/images/image_0BS.png"
                      alt="V&E GmbH und Work & Life GmbH"
@@ -64,13 +64,14 @@
                     <p style="margin:0 0 8px;font:700 12px Verdana,sans-serif;color:#000;text-transform:uppercase;letter-spacing:.3px;">Kontakt</p>
                     <p style="margin:0 0 4px;font:14px Verdana,sans-serif;color:#4c527d;">Mobil: <span style="color:#0b5394;font-weight:700;">+49 1762 0668267</span></p>
                     <p style="margin:0 0 4px;font:14px Verdana,sans-serif;color:#4c527d;">Tel: <span style="color:#0b5394;font-weight:700;">+49 5205 9987283</span></p>
-                    <p style="margin:0;font:14px Verdana,sans-serif;color:#4c527d;">Fax: <span style="color:#0b5394;font-weight:700;">+49 5205 9987284</span></p>
+                    <p style="margin:0 0 4px;font:14px Verdana,sans-serif;color:#4c527d;">Fax: <span style="color:#0b5394;font-weight:700;">+49 5205 9987284</span></p>
+                    <p style="margin:0;font:14px Verdana,sans-serif;color:#4c527d;">E-Mail: <a href="mailto:info@v-e-gmbh.de" style="color:#0b5394;font-weight:700;text-decoration:none;">info@v-e-gmbh.de</a></p>
                   </td>
 
                   <!-- RIGHT: Address -->
                   <td width="45%" valign="top" style="padding:16px 14px;text-align:center;">
                     <div style="margin-bottom:8px;">
-                      <table role="presentation" align="center" width="36" height="36" style="border-radius:50%;background:#eaf2fb;border:1px solid #d7e5f6;">
+                      <table role="presentation" align="center" width="36" height="36" style="border-radius:50%;background:#eaf5ea;border:1px solid #d6ecd8;">
                         <tr><td align="center" style="font-size:18px;">📍</td></tr>
                       </table>
                     </div>
@@ -80,7 +81,7 @@
                     <p style="margin:0;font:14px Verdana,sans-serif;color:#4c527d;"><span style="color:#0b5394;font-weight:700;">Mo–Fr</span> 09:00–17:00</p>
                     <table role="presentation" align="center" cellspacing="0" cellpadding="0" border="0" style="margin-top:10px;">
                       <tr>
-                        <td bgcolor="#3c76a5" style="border-radius:999px;box-shadow:0 2px 6px rgba(0,0,0,.18);text-align:center;">
+                        <td bgcolor="#69b888" style="border-radius:999px;box-shadow:0 2px 6px rgba(0,0,0,.18);text-align:center;">
                           <a href="https://maps.google.com/?q=Lindemann-Platz+3,+33689+Bielefeld"
                              style="display:inline-block;padding:7px 20px;font:700 12px Verdana,sans-serif;color:#ffffff;text-decoration:none;">
                             📍 Route
@@ -102,9 +103,9 @@
               </p>
               <table role="presentation" cellspacing="0" cellpadding="0" border="0" align="center">
                 <tr>
-                  <td bgcolor="#3c76a5" style="border-radius:999px;box-shadow:0 6px 16px rgba(60,118,165,.35);">
+                  <td bgcolor="#69b888" style="border-radius:999px;box-shadow:0 6px 16px rgba(60,118,165,.35);">
                     <a href="mailto:jobs@v-e-gmbh.de?subject=Bewerbung&body=Guten%20Tag,%20hiermit%20sende%20ich%20meinen%20Lebenslauf."
-                       style="display:inline-block;padding:14px 34px;font:700 16px Verdana, sans-serif;color:#ffffff;text-decoration:none;">
+                       style="display:inline-block;padding:14px 20px;font:700 16px Verdana, sans-serif;color:#ffffff;text-decoration:none;">
                       📝 Lebenslauf senden
                     </a>
                   </td>
